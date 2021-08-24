@@ -4125,806 +4125,698 @@ Welcome to e-mall
 [main] 2021-08-23 00:53:35 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
 [main] 2021-08-23 00:53:35 INFO  com.mall.Main.Main  - | 5. Exit                                            |
 [main] 2021-08-23 00:53:35 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 10:06:36 INFO  com.mall.Main.Main  - This is a console based application
-[main] 2021-08-23 10:06:36 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 10:06:36 INFO  com.mall.Main.Main  - Welcome to e-mall online shopping
-[main] 2021-08-23 10:06:36 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 10:06:36 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 21:37:15 INFO  com.mall.addProduct.Impl.ProductAddServiceImpl  - Product Id=12, Name=vivoY15, Manufacturer=vivo, Cost=20000.0
+[main] 2021-08-23 21:43:45 INFO  com.mall.addProduct.Impl.ProductAddServiceImpl  - Product Id=13, Name=vivoY17, Manufacturer=vivo, Cost=30000.0
+[main] 2021-08-23 21:57:03 INFO  com.mall.addProduct.Impl.ProductAddServiceImpl  - Product Id=14, Name=vivoY20, Manufacturer=vivo, Cost=40000.0
+[main] 2021-08-23 22:05:22 INFO  com.mall.addProduct.Impl.ProductAddServiceImpl  - Product Id=15, Name=vivoY21, Manufacturer=vivo, Cost=40000.0
+[main] 2021-08-23 22:56:38 INFO  com.mall.addProduct.Impl.ProductAddServiceImpl  - Product Id=16, Name=vivoY22, Manufacturer=vivo, Cost=450000.0
+[main] 2021-08-23 23:00:29 INFO  com.mall.Main.Main  - This is a console based application
+[main] 2021-08-23 23:00:29 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:00:29 INFO  com.mall.Main.Main  - Welcome to e-mall online shopping
+[main] 2021-08-23 23:00:29 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:00:29 INFO  com.mall.Main.Main  - 
  What's in your mind?
-[main] 2021-08-23 10:06:36 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 10:06:36 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 10:06:36 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 10:06:36 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 10:06:36 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 10:07:03 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 10:07:03 INFO  com.mall.Main.Main  - ENTER YOUR MAIL-ID
-[main] 2021-08-23 10:07:17 INFO  com.mall.Main.Main  - ENTER YOUR PASSWORD
-[main] 2021-08-23 10:07:31 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 10:07:31 INFO  com.mall.Main.Main  - No accounts match with the entered details....Enter valid details
-[main] 2021-08-23 10:07:31 INFO  com.mall.Main.Main  - 
- What's in your mind?
-[main] 2021-08-23 10:07:31 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 10:07:31 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 10:07:31 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 10:07:31 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 10:07:31 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 10:07:54 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:00:29 INFO  com.mall.Main.Main  - 1)Login as Employee?
+[main] 2021-08-23 23:00:29 INFO  com.mall.Main.Main  - 2)Login as Customer?
+[main] 2021-08-23 23:00:29 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-23 23:00:29 INFO  com.mall.Main.Main  - 4)E.X.I.T
+[main] 2021-08-23 23:00:29 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-23 23:00:39 INFO  com.mall.Main.Main  - 
  Thanks for willing to join the e-mall family
-[main] 2021-08-23 10:07:54 INFO  com.mall.Main.Main  - ENTER YOUR ID
-[main] 2021-08-23 10:09:11 INFO  com.mall.Main.Main  - This is a console based application
-[main] 2021-08-23 10:09:11 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 10:09:11 INFO  com.mall.Main.Main  - Welcome to e-mall online shopping
-[main] 2021-08-23 10:09:11 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 10:09:11 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:00:39 INFO  com.mall.Main.Main  - ENTER YOUR ID
+[main] 2021-08-23 23:04:13 INFO  com.mall.Main.Main  - This is a console based application
+[main] 2021-08-23 23:04:13 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:04:13 INFO  com.mall.Main.Main  - Welcome to e-mall online shopping
+[main] 2021-08-23 23:04:13 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:04:13 INFO  com.mall.Main.Main  - 
  What's in your mind?
-[main] 2021-08-23 10:09:11 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 10:09:11 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 10:09:11 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 10:09:11 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 10:09:11 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 10:09:45 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:04:13 INFO  com.mall.Main.Main  - 1)Login as Employee?
+[main] 2021-08-23 23:04:13 INFO  com.mall.Main.Main  - 2)Login as Customer?
+[main] 2021-08-23 23:04:13 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-23 23:04:13 INFO  com.mall.Main.Main  - 4)E.X.I.T
+[main] 2021-08-23 23:04:13 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-23 23:04:23 INFO  com.mall.Main.Main  - 
  Thanks for willing to join the e-mall family
-[main] 2021-08-23 10:09:45 INFO  com.mall.Main.Main  - ENTER YOUR ID
-[main] 2021-08-23 10:20:42 INFO  com.mall.Main.Main  - This is a console based application
-[main] 2021-08-23 10:20:42 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 10:20:42 INFO  com.mall.Main.Main  - Welcome to e-mall online shopping
-[main] 2021-08-23 10:20:42 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 10:20:42 INFO  com.mall.Main.Main  - 
- What's in your mind?
-[main] 2021-08-23 10:20:42 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 10:20:42 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 10:20:42 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 10:20:42 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 10:20:42 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 10:21:21 INFO  com.mall.Main.Main  - 
- Thanks for willing to join the e-mall family
-[main] 2021-08-23 10:21:21 INFO  com.mall.Main.Main  - ENTER YOUR ID
-[main] 2021-08-23 10:21:46 INFO  com.mall.Main.Main  - ENTER YOUR NAME
-[main] 2021-08-23 10:21:52 INFO  com.mall.Main.Main  - ENTER YOUR VALID EMAIL
-[main] 2021-08-23 10:22:32 INFO  com.mall.Main.Main  - This is a console based application
-[main] 2021-08-23 10:22:32 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 10:22:32 INFO  com.mall.Main.Main  - Welcome to e-mall online shopping
-[main] 2021-08-23 10:22:32 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 10:22:32 INFO  com.mall.Main.Main  - 
- What's in your mind?
-[main] 2021-08-23 10:22:32 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 10:22:32 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 10:22:32 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 10:22:32 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 10:22:32 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 10:23:17 INFO  com.mall.Main.Main  - 
- Thanks for willing to join the e-mall family
-[main] 2021-08-23 10:23:17 INFO  com.mall.Main.Main  - ENTER YOUR ID
-[main] 2021-08-23 10:23:22 INFO  com.mall.Main.Main  - ENTER YOUR NAME
-[main] 2021-08-23 10:23:26 INFO  com.mall.Main.Main  - ENTER YOUR VALID EMAIL
-[main] 2021-08-23 10:23:38 INFO  com.mall.Main.Main  - A PASSWORD IS CONSIDERED VALID IF IT HAS
-[main] 2021-08-23 10:23:38 INFO  com.mall.Main.Main  - * At least one upper case alphabet
-[main] 2021-08-23 10:23:38 INFO  com.mall.Main.Main  - * At least one lower case alphabet
-[main] 2021-08-23 10:23:38 INFO  com.mall.Main.Main  - * At least one digit
-[main] 2021-08-23 10:23:38 INFO  com.mall.Main.Main  - * At least one special character symbol whih includes !@#$%&*()
-[main] 2021-08-23 10:23:38 INFO  com.mall.Main.Main  - * No white spaces
-[main] 2021-08-23 10:23:38 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:04:23 INFO  com.mall.Main.Main  - ENTER YOUR ID
+[main] 2021-08-23 23:04:32 INFO  com.mall.Main.Main  - ENTER YOUR NAME
+[main] 2021-08-23 23:04:38 INFO  com.mall.Main.Main  - ENTER YOUR VALID EMAIL
+[main] 2021-08-23 23:04:49 INFO  com.mall.Main.Main  - A PASSWORD IS CONSIDERED VALID IF IT HAS
+[main] 2021-08-23 23:04:49 INFO  com.mall.Main.Main  - * At least one upper case alphabet
+[main] 2021-08-23 23:04:49 INFO  com.mall.Main.Main  - * At least one lower case alphabet
+[main] 2021-08-23 23:04:49 INFO  com.mall.Main.Main  - * At least one digit
+[main] 2021-08-23 23:04:49 INFO  com.mall.Main.Main  - * At least one special character symbol whih includes !@#$%&*()
+[main] 2021-08-23 23:04:49 INFO  com.mall.Main.Main  - * No white spaces
+[main] 2021-08-23 23:04:49 INFO  com.mall.Main.Main  - 
  ENTER YOUR PASSWORD
-[main] 2021-08-23 10:24:16 INFO  com.mall.Main.Main  - Thank you for providing the details
-[main] 2021-08-23 10:24:26 INFO  com.mall.Main.Main  - Your account is registered successfully with e-mall
-[main] 2021-08-23 10:24:26 INFO  com.mall.Main.Main  - Customer customerId=3, customerName=Amol, customerEmail=Amol@gmail.com
-[main] 2021-08-23 10:24:26 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:05:02 INFO  com.mall.Main.Main  - Thank you for providing the details
+[main] 2021-08-23 23:05:03 INFO  com.mall.Main.Main  - Your account is registered successfully with e-mall
+[main] 2021-08-23 23:05:03 INFO  com.mall.Main.Main  - Customer customerId=5, customerName=kari, customerEmail=kari@gmail.com
+[main] 2021-08-23 23:05:03 INFO  com.mall.Main.Main  - 
  What's in your mind?
-[main] 2021-08-23 10:24:26 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 10:24:26 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 10:24:26 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 10:24:26 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 10:24:26 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 10:24:40 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 10:24:40 INFO  com.mall.Main.Main  - ENTER YOUR MAIL-ID
-[main] 2021-08-23 10:27:01 INFO  com.mall.Main.Main  - ENTER YOUR PASSWORD
-[main] 2021-08-23 10:27:14 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 10:27:14 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
-[main] 2021-08-23 10:27:14 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:05:03 INFO  com.mall.Main.Main  - 1)Login as Employee?
+[main] 2021-08-23 23:05:03 INFO  com.mall.Main.Main  - 2)Login as Customer?
+[main] 2021-08-23 23:05:03 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-23 23:05:03 INFO  com.mall.Main.Main  - 4)E.X.I.T
+[main] 2021-08-23 23:05:03 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-23 23:05:08 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:05:08 INFO  com.mall.Main.Main  - ENTER YOUR MAIL-ID
+[main] 2021-08-23 23:05:30 INFO  com.mall.Main.Main  - ENTER YOUR PASSWORD
+[main] 2021-08-23 23:05:38 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:05:38 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
+[main] 2021-08-23 23:05:38 INFO  com.mall.Main.Main  - 
 ------------------------
-[main] 2021-08-23 10:27:14 INFO  com.mall.Main.Main  - | 1. Add a Product              |
-[main] 2021-08-23 10:27:14 INFO  com.mall.Main.Main  - | 2. Search Customer            |
-[main] 2021-08-23 10:27:14 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
-[main] 2021-08-23 10:27:14 INFO  com.mall.Main.Main  - | 4. Logout!                    |
-[main] 2021-08-23 10:27:14 INFO  com.mall.Main.Main  - --------------------------
-[main] 2021-08-23 10:27:29 INFO  com.mall.Main.Main  - Add the details of the Product to update the product
-[main] 2021-08-23 10:27:29 INFO  com.mall.Main.Main  - ENTER PRODUCT ID 
-[main] 2021-08-23 10:27:45 INFO  com.mall.Main.Main  - ENTER PRODUCT NAME
-[main] 2021-08-23 10:28:06 INFO  com.mall.Main.Main  - ENTER MANUFACTURER NAME
-[main] 2021-08-23 10:30:18 INFO  com.mall.Main.Main  - ENTER COST
-[main] 2021-08-23 10:30:25 INFO  com.mall.Main.Main  - Product with the above details is created successfully
-[main] 2021-08-23 10:30:26 INFO  com.mall.addProduct.Impl.ProductAddServiceImpl  - Product Id=3, Name=frits, Manufacturer=slice, Cost=50.0
-[main] 2021-08-23 10:30:26 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
-[main] 2021-08-23 10:30:26 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:05:38 INFO  com.mall.Main.Main  - | 1. Add a Product              |
+[main] 2021-08-23 23:05:38 INFO  com.mall.Main.Main  - | 2. Search Customer            |
+[main] 2021-08-23 23:05:38 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
+[main] 2021-08-23 23:05:38 INFO  com.mall.Main.Main  - | 4. Logout!                    |
+[main] 2021-08-23 23:05:38 INFO  com.mall.Main.Main  - --------------------------
+[main] 2021-08-23 23:05:56 INFO  com.mall.Main.Main  - Add the details of the Product to update the product
+[main] 2021-08-23 23:05:56 INFO  com.mall.Main.Main  - ENTER PRODUCT ID 
+[main] 2021-08-23 23:06:14 INFO  com.mall.Main.Main  - ENTER PRODUCT NAME
+[main] 2021-08-23 23:06:38 INFO  com.mall.Main.Main  - ENTER MANUFACTURER NAME
+[main] 2021-08-23 23:06:47 INFO  com.mall.Main.Main  - ENTER COST
+[main] 2021-08-23 23:06:53 INFO  com.mall.Main.Main  - Product with the above details is created successfully
+[main] 2021-08-23 23:06:53 INFO  com.mall.addProduct.Impl.ProductAddServiceImpl  - Product Id=5, Name=Honda50, Manufacturer=Honda, Cost=5000.0
+[main] 2021-08-23 23:06:53 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
+[main] 2021-08-23 23:06:53 INFO  com.mall.Main.Main  - 
 ------------------------
-[main] 2021-08-23 10:30:26 INFO  com.mall.Main.Main  - | 1. Add a Product              |
-[main] 2021-08-23 10:30:26 INFO  com.mall.Main.Main  - | 2. Search Customer            |
-[main] 2021-08-23 10:30:26 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
-[main] 2021-08-23 10:30:26 INFO  com.mall.Main.Main  - | 4. Logout!                    |
-[main] 2021-08-23 10:30:26 INFO  com.mall.Main.Main  - --------------------------
-[main] 2021-08-23 10:34:31 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:06:53 INFO  com.mall.Main.Main  - | 1. Add a Product              |
+[main] 2021-08-23 23:06:53 INFO  com.mall.Main.Main  - | 2. Search Customer            |
+[main] 2021-08-23 23:06:53 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
+[main] 2021-08-23 23:06:53 INFO  com.mall.Main.Main  - | 4. Logout!                    |
+[main] 2021-08-23 23:06:53 INFO  com.mall.Main.Main  - --------------------------
+[main] 2021-08-23 23:07:02 INFO  com.mall.Main.Main  - 
 ----------------------------------------------------
-[main] 2021-08-23 10:34:31 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 10:34:31 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 10:34:31 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 10:34:31 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 10:34:31 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 10:34:31 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 10:34:31 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 10:34:31 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 10:34:40 INFO  com.mall.Main.Main  - Enter customer name to get Customer details
-[main] 2021-08-23 10:35:12 INFO  com.mall.Main.Main  - Total there are 1 number of customers 
-[main] 2021-08-23 10:35:12 INFO  com.mall.Main.Main  - Customer customerId=3, customerName=Amol, customerEmail=Amol@gmail.com
-[main] 2021-08-23 10:35:12 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:07:02 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:07:02 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:07:02 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:07:02 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:07:02 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:07:02 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:07:02 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:07:02 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:07:08 INFO  com.mall.Main.Main  - Enter customer name to get Customer details
+[main] 2021-08-23 23:08:01 INFO  com.mall.Main.Main  - Total there are 1 number of customers 
+[main] 2021-08-23 23:08:01 INFO  com.mall.Main.Main  - Customer customerId=5, customerName=kari, customerEmail=kari@gmail.com
+[main] 2021-08-23 23:08:01 INFO  com.mall.Main.Main  - 
 ----------------------------------------------------
-[main] 2021-08-23 10:35:12 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 10:35:12 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 10:35:12 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 10:35:12 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 10:35:12 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 10:35:12 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 10:35:12 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 10:35:12 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 10:35:24 INFO  com.mall.Main.Main  - Enter customer Id to get Customer details
-[main] 2021-08-23 10:35:38 INFO  com.mall.Main.Main  - Customer with id 3 found successfully...
-[main] 2021-08-23 10:35:38 INFO  com.mall.Main.Main  - Customer customerId=3, customerName=Amol, customerEmail=Amol@gmail.com
-[main] 2021-08-23 10:35:38 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:08:01 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:08:01 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:08:01 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:08:01 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:08:01 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:08:01 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:08:01 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:08:01 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:08:07 INFO  com.mall.Main.Main  - Enter customer Email to get Customer details
+[main] 2021-08-23 23:08:20 INFO  com.mall.Main.Main  - Customer with id kari@gmail.com found successfully...
+[main] 2021-08-23 23:08:20 INFO  com.mall.Main.Main  - Customer customerId=5, customerName=kari, customerEmail=kari@gmail.com
+[main] 2021-08-23 23:08:20 INFO  com.mall.Main.Main  - 
 ----------------------------------------------------
-[main] 2021-08-23 10:35:38 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 10:35:38 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 10:35:38 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 10:35:38 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 10:35:38 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 10:35:38 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 10:35:38 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 10:35:38 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 10:35:59 INFO  com.mall.Main.Main  - Enter customer Id to get Customer details
-[main] 2021-08-23 10:36:26 INFO  com.mall.Main.Main  - Customer with id 1 found successfully...
-[main] 2021-08-23 10:36:26 INFO  com.mall.Main.Main  - Customer customerId=1, customerName=gauri, customerEmail=gauri@gmail.com
-[main] 2021-08-23 10:36:26 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:08:20 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:08:20 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:08:20 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:08:20 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:08:20 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:08:20 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:08:20 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:08:20 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:08:46 INFO  com.mall.Main.Main  - ENTER ORDER ID
+[main] 2021-08-23 23:08:50 WARN  com.mall.Main.Main  - Entered Order Id 5 doesnt exist
+[main] 2021-08-23 23:08:50 INFO  com.mall.Main.Main  - 
 ----------------------------------------------------
-[main] 2021-08-23 10:36:26 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 10:36:26 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 10:36:26 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 10:36:26 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 10:36:26 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 10:36:26 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 10:36:26 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 10:36:26 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 10:36:59 INFO  com.mall.Main.Main  - Enter customer Id to get Customer details
-[main] 2021-08-23 10:37:27 WARN  com.mall.Main.Main  - Entered customer id 2 doesnt exist
-[main] 2021-08-23 10:37:27 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 10:37:27 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 10:37:27 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 10:37:27 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 10:37:27 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 10:37:27 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 10:37:27 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 10:37:27 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 10:37:27 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 10:37:32 INFO  com.mall.Main.Main  - Enter customer Id to get Customer details
-[main] 2021-08-23 10:37:56 INFO  com.mall.Main.Main  - Customer with id 1 found successfully...
-[main] 2021-08-23 10:37:56 INFO  com.mall.Main.Main  - Customer customerId=1, customerName=gauri, customerEmail=gauri@gmail.com
-[main] 2021-08-23 10:37:56 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 10:37:56 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 10:37:56 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 10:37:56 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 10:37:56 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 10:37:56 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 10:37:56 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 10:37:56 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 10:37:56 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 10:38:06 INFO  com.mall.Main.Main  - Enter customer name to get Customer details
-[main] 2021-08-23 10:38:13 INFO  com.mall.Main.Main  - Total there are 1 number of customers 
-[main] 2021-08-23 10:38:13 INFO  com.mall.Main.Main  - Customer customerId=3, customerName=Amol, customerEmail=Amol@gmail.com
-[main] 2021-08-23 10:38:13 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 10:38:13 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 10:38:13 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 10:38:13 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 10:38:13 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 10:38:13 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 10:38:13 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 10:38:13 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 10:38:13 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 10:38:20 INFO  com.mall.Main.Main  - Enter customer Email to get Customer details
-[main] 2021-08-23 10:38:30 INFO  com.mall.Main.Main  - Customer with id Amol@gmail.com found successfully...
-[main] 2021-08-23 10:38:30 INFO  com.mall.Main.Main  - Customer customerId=3, customerName=Amol, customerEmail=Amol@gmail.com
-[main] 2021-08-23 10:38:30 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 10:38:30 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 10:38:30 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 10:38:30 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 10:38:30 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 10:38:30 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 10:38:30 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 10:38:30 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 10:38:30 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 10:38:35 INFO  com.mall.Main.Main  - ENTER ORDER ID
-[main] 2021-08-23 10:38:45 WARN  com.mall.Main.Main  - Entered Order Id 1 doesnt exist
-[main] 2021-08-23 10:38:45 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 10:38:45 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 10:38:45 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 10:38:45 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 10:38:45 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 10:38:45 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 10:38:45 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 10:38:45 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 10:38:45 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 10:39:18 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
-[main] 2021-08-23 10:39:18 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:08:50 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:08:50 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:08:50 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:08:50 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:08:50 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:08:50 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:08:50 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:08:50 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:08:57 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
+[main] 2021-08-23 23:08:57 INFO  com.mall.Main.Main  - 
 ------------------------
-[main] 2021-08-23 10:39:18 INFO  com.mall.Main.Main  - | 1. Add a Product              |
-[main] 2021-08-23 10:39:18 INFO  com.mall.Main.Main  - | 2. Search Customer            |
-[main] 2021-08-23 10:39:18 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
-[main] 2021-08-23 10:39:18 INFO  com.mall.Main.Main  - | 4. Logout!                    |
-[main] 2021-08-23 10:39:18 INFO  com.mall.Main.Main  - --------------------------
-[main] 2021-08-23 10:39:28 WARN  com.mall.Main.Main  - No Orders Placed 
-[main] 2021-08-23 10:39:28 INFO  com.mall.Main.Main  - 
-[main] 2021-08-23 10:39:28 INFO  com.mall.Main.Main  - ENTER ORDER ID
-[main] 2021-08-23 10:39:39 INFO  com.mall.Main.Main  - Order is shipped Successfully!
-[main] 2021-08-23 10:39:39 INFO  com.mall.Main.Main  - Order status is updated to shipped
-[main] 2021-08-23 10:39:39 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
-[main] 2021-08-23 10:39:39 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:08:57 INFO  com.mall.Main.Main  - | 1. Add a Product              |
+[main] 2021-08-23 23:08:57 INFO  com.mall.Main.Main  - | 2. Search Customer            |
+[main] 2021-08-23 23:08:57 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
+[main] 2021-08-23 23:08:57 INFO  com.mall.Main.Main  - | 4. Logout!                    |
+[main] 2021-08-23 23:08:57 INFO  com.mall.Main.Main  - --------------------------
+[main] 2021-08-23 23:09:23 WARN  com.mall.Main.Main  - No Orders Placed 
+[main] 2021-08-23 23:09:23 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:09:23 INFO  com.mall.Main.Main  - ENTER ORDER ID
+[main] 2021-08-23 23:09:29 INFO  com.mall.Main.Main  - Order is shipped Successfully!
+[main] 2021-08-23 23:09:29 INFO  com.mall.Main.Main  - Order status is updated to shipped
+[main] 2021-08-23 23:09:29 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
+[main] 2021-08-23 23:09:29 INFO  com.mall.Main.Main  - 
 ------------------------
-[main] 2021-08-23 10:39:39 INFO  com.mall.Main.Main  - | 1. Add a Product              |
-[main] 2021-08-23 10:39:39 INFO  com.mall.Main.Main  - | 2. Search Customer            |
-[main] 2021-08-23 10:39:39 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
-[main] 2021-08-23 10:39:39 INFO  com.mall.Main.Main  - | 4. Logout!                    |
-[main] 2021-08-23 10:39:39 INFO  com.mall.Main.Main  - --------------------------
-[main] 2021-08-23 10:40:02 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:09:29 INFO  com.mall.Main.Main  - | 1. Add a Product              |
+[main] 2021-08-23 23:09:29 INFO  com.mall.Main.Main  - | 2. Search Customer            |
+[main] 2021-08-23 23:09:29 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
+[main] 2021-08-23 23:09:29 INFO  com.mall.Main.Main  - | 4. Logout!                    |
+[main] 2021-08-23 23:09:29 INFO  com.mall.Main.Main  - --------------------------
+[main] 2021-08-23 23:09:39 INFO  com.mall.Main.Main  - Logged Out Successfully!
+[main] 2021-08-23 23:15:27 INFO  com.mall.Main.Main  - This is a console based application
+[main] 2021-08-23 23:15:27 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:15:27 INFO  com.mall.Main.Main  - Welcome to e-mall online shopping
+[main] 2021-08-23 23:15:27 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:15:27 INFO  com.mall.Main.Main  - 
  What's in your mind?
-[main] 2021-08-23 10:40:02 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 10:40:02 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 10:40:02 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 10:40:02 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 10:40:02 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 10:40:08 INFO  com.mall.Main.Main  - -----------------------
-[main] 2021-08-23 10:40:08 INFO  com.mall.Main.Main  - ENTER YOUR EMAIL
-[main] 2021-08-23 10:41:31 INFO  com.mall.Main.Main  - ENTER YOUR PASSWORD
-[main] 2021-08-23 10:41:41 INFO  com.mall.Main.Main  - -----------------------
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - -----------------------
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - ----Logged In successfully----
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:15:27 INFO  com.mall.Main.Main  - 1)Login as Employee?
+[main] 2021-08-23 23:15:27 INFO  com.mall.Main.Main  - 2)Login as Customer?
+[main] 2021-08-23 23:15:27 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-23 23:15:27 INFO  com.mall.Main.Main  - 4)E.X.I.T
+[main] 2021-08-23 23:15:27 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-23 23:16:22 INFO  com.mall.Main.Main  - 
+ Thanks for willing to join the e-mall family
+[main] 2021-08-23 23:16:22 INFO  com.mall.Main.Main  - ENTER YOUR ID
+[main] 2021-08-23 23:16:30 INFO  com.mall.Main.Main  - ENTER YOUR NAME
+[main] 2021-08-23 23:16:37 INFO  com.mall.Main.Main  - ENTER YOUR VALID EMAIL
+[main] 2021-08-23 23:16:48 INFO  com.mall.Main.Main  - A PASSWORD IS CONSIDERED VALID IF IT HAS
+[main] 2021-08-23 23:16:48 INFO  com.mall.Main.Main  - * At least one upper case alphabet
+[main] 2021-08-23 23:16:48 INFO  com.mall.Main.Main  - * At least one lower case alphabet
+[main] 2021-08-23 23:16:48 INFO  com.mall.Main.Main  - * At least one digit
+[main] 2021-08-23 23:16:48 INFO  com.mall.Main.Main  - * At least one special character symbol whih includes !@#$%&*()
+[main] 2021-08-23 23:16:48 INFO  com.mall.Main.Main  - * No white spaces
+[main] 2021-08-23 23:16:48 INFO  com.mall.Main.Main  - 
+ ENTER YOUR PASSWORD
+[main] 2021-08-23 23:18:16 INFO  com.mall.Main.Main  - Thank you for providing the details
+[main] 2021-08-23 23:18:18 INFO  com.mall.Main.Main  - Your account is registered successfully with e-mall
+[main] 2021-08-23 23:18:18 INFO  com.mall.Main.Main  - Customer customerId=6, customerName=tina, customerEmail=tina@gmail.com
+[main] 2021-08-23 23:18:18 INFO  com.mall.Main.Main  - 
+ What's in your mind?
+[main] 2021-08-23 23:18:18 INFO  com.mall.Main.Main  - 1)Login as Employee?
+[main] 2021-08-23 23:18:18 INFO  com.mall.Main.Main  - 2)Login as Customer?
+[main] 2021-08-23 23:18:18 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-23 23:18:18 INFO  com.mall.Main.Main  - 4)E.X.I.T
+[main] 2021-08-23 23:18:18 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-23 23:18:23 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:18:23 INFO  com.mall.Main.Main  - ENTER YOUR MAIL-ID
+[main] 2021-08-23 23:18:36 INFO  com.mall.Main.Main  - ENTER YOUR PASSWORD
+[main] 2021-08-23 23:18:46 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:18:46 INFO  com.mall.Main.Main  - No accounts match with the entered details....Enter valid details
+[main] 2021-08-23 23:18:46 INFO  com.mall.Main.Main  - 
+ What's in your mind?
+[main] 2021-08-23 23:18:46 INFO  com.mall.Main.Main  - 1)Login as Employee?
+[main] 2021-08-23 23:18:46 INFO  com.mall.Main.Main  - 2)Login as Customer?
+[main] 2021-08-23 23:18:46 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-23 23:18:46 INFO  com.mall.Main.Main  - 4)E.X.I.T
+[main] 2021-08-23 23:18:46 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-23 23:19:04 INFO  com.mall.Main.Main  - 
+ Thanks for willing to join the e-mall family
+[main] 2021-08-23 23:19:04 INFO  com.mall.Main.Main  - ENTER YOUR ID
+[main] 2021-08-23 23:19:09 INFO  com.mall.Main.Main  - ENTER YOUR NAME
+[main] 2021-08-23 23:19:17 INFO  com.mall.Main.Main  - ENTER YOUR VALID EMAIL
+[main] 2021-08-23 23:19:32 INFO  com.mall.Main.Main  - A PASSWORD IS CONSIDERED VALID IF IT HAS
+[main] 2021-08-23 23:19:32 INFO  com.mall.Main.Main  - * At least one upper case alphabet
+[main] 2021-08-23 23:19:32 INFO  com.mall.Main.Main  - * At least one lower case alphabet
+[main] 2021-08-23 23:19:32 INFO  com.mall.Main.Main  - * At least one digit
+[main] 2021-08-23 23:19:32 INFO  com.mall.Main.Main  - * At least one special character symbol whih includes !@#$%&*()
+[main] 2021-08-23 23:19:32 INFO  com.mall.Main.Main  - * No white spaces
+[main] 2021-08-23 23:19:32 INFO  com.mall.Main.Main  - 
+ ENTER YOUR PASSWORD
+[main] 2021-08-23 23:19:43 INFO  com.mall.Main.Main  - Thank you for providing the details
+[main] 2021-08-23 23:19:44 INFO  com.mall.Main.Main  - Your account is registered successfully with e-mall
+[main] 2021-08-23 23:19:44 INFO  com.mall.Main.Main  - Customer customerId=7, customerName=sema, customerEmail=sema@gmail.com
+[main] 2021-08-23 23:19:44 INFO  com.mall.Main.Main  - 
+ What's in your mind?
+[main] 2021-08-23 23:19:44 INFO  com.mall.Main.Main  - 1)Login as Employee?
+[main] 2021-08-23 23:19:44 INFO  com.mall.Main.Main  - 2)Login as Customer?
+[main] 2021-08-23 23:19:44 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-23 23:19:44 INFO  com.mall.Main.Main  - 4)E.X.I.T
+[main] 2021-08-23 23:19:44 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-23 23:19:52 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:19:52 INFO  com.mall.Main.Main  - ENTER YOUR MAIL-ID
+[main] 2021-08-23 23:20:06 INFO  com.mall.Main.Main  - ENTER YOUR PASSWORD
+[main] 2021-08-23 23:20:12 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:20:12 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
+[main] 2021-08-23 23:20:12 INFO  com.mall.Main.Main  - 
+------------------------
+[main] 2021-08-23 23:20:12 INFO  com.mall.Main.Main  - | 1. Add a Product              |
+[main] 2021-08-23 23:20:12 INFO  com.mall.Main.Main  - | 2. Search Customer            |
+[main] 2021-08-23 23:20:12 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
+[main] 2021-08-23 23:20:12 INFO  com.mall.Main.Main  - | 4. Logout!                    |
+[main] 2021-08-23 23:20:12 INFO  com.mall.Main.Main  - --------------------------
+[main] 2021-08-23 23:20:17 INFO  com.mall.Main.Main  - Add the details of the Product to update the product
+[main] 2021-08-23 23:20:17 INFO  com.mall.Main.Main  - ENTER PRODUCT ID 
+[main] 2021-08-23 23:20:42 INFO  com.mall.Main.Main  - ENTER PRODUCT NAME
+[main] 2021-08-23 23:20:51 INFO  com.mall.Main.Main  - ENTER MANUFACTURER NAME
+[main] 2021-08-23 23:20:58 INFO  com.mall.Main.Main  - ENTER COST
+[main] 2021-08-23 23:21:08 INFO  com.mall.Main.Main  - Product with the above details is created successfully
+[main] 2021-08-23 23:21:08 INFO  com.mall.addProduct.Impl.ProductAddServiceImpl  - Product Id=6, Name=car, Manufacturer=maruti, Cost=60000.0
+[main] 2021-08-23 23:21:08 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
+[main] 2021-08-23 23:21:08 INFO  com.mall.Main.Main  - 
+------------------------
+[main] 2021-08-23 23:21:08 INFO  com.mall.Main.Main  - | 1. Add a Product              |
+[main] 2021-08-23 23:21:08 INFO  com.mall.Main.Main  - | 2. Search Customer            |
+[main] 2021-08-23 23:21:08 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
+[main] 2021-08-23 23:21:08 INFO  com.mall.Main.Main  - | 4. Logout!                    |
+[main] 2021-08-23 23:21:08 INFO  com.mall.Main.Main  - --------------------------
+[main] 2021-08-23 23:21:35 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:21:35 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:21:35 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:21:35 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:21:35 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:21:35 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:21:35 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:21:35 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:21:35 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:21:39 INFO  com.mall.Main.Main  - Enter customer name to get Customer details
+[main] 2021-08-23 23:25:01 INFO  com.mall.Main.Main  - Total there are 1 number of customers 
+[main] 2021-08-23 23:25:01 INFO  com.mall.Main.Main  - Customer customerId=7, customerName=sema, customerEmail=sema@gmail.com
+[main] 2021-08-23 23:25:01 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:25:01 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:25:01 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:25:01 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:25:01 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:25:01 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:25:01 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:25:01 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:25:01 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:25:09 INFO  com.mall.Main.Main  - Enter customer Id to get Customer details
+[main] 2021-08-23 23:25:23 INFO  com.mall.Main.Main  - Customer with id 7 found successfully...
+[main] 2021-08-23 23:25:23 INFO  com.mall.Main.Main  - Customer customerId=7, customerName=sema, customerEmail=sema@gmail.com
+[main] 2021-08-23 23:25:23 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:25:23 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:25:23 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:25:23 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:25:23 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:25:23 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:25:23 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:25:23 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:25:23 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:25:30 INFO  com.mall.Main.Main  - Enter customer Email to get Customer details
+[main] 2021-08-23 23:25:40 INFO  com.mall.Main.Main  - Customer with id sema@gmail.com found successfully...
+[main] 2021-08-23 23:25:40 INFO  com.mall.Main.Main  - Customer customerId=7, customerName=sema, customerEmail=sema@gmail.com
+[main] 2021-08-23 23:25:40 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:25:40 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:25:40 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:25:40 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:25:40 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:25:40 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:25:40 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:25:40 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:25:40 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:25:45 INFO  com.mall.Main.Main  - ENTER ORDER ID
+[main] 2021-08-23 23:25:49 WARN  com.mall.Main.Main  - Entered Order Id 7 doesnt exist
+[main] 2021-08-23 23:25:49 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:25:49 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:25:49 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:25:49 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:25:49 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:25:49 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:25:49 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:25:49 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:25:49 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:25:54 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
+[main] 2021-08-23 23:25:54 INFO  com.mall.Main.Main  - 
+------------------------
+[main] 2021-08-23 23:25:54 INFO  com.mall.Main.Main  - | 1. Add a Product              |
+[main] 2021-08-23 23:25:54 INFO  com.mall.Main.Main  - | 2. Search Customer            |
+[main] 2021-08-23 23:25:54 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
+[main] 2021-08-23 23:25:54 INFO  com.mall.Main.Main  - | 4. Logout!                    |
+[main] 2021-08-23 23:25:54 INFO  com.mall.Main.Main  - --------------------------
+[main] 2021-08-23 23:26:19 INFO  com.mall.Main.Main  - Add the details of the Product to update the product
+[main] 2021-08-23 23:26:19 INFO  com.mall.Main.Main  - ENTER PRODUCT ID 
+[main] 2021-08-23 23:26:23 INFO  com.mall.Main.Main  - ENTER PRODUCT NAME
+[main] 2021-08-23 23:28:17 INFO  com.mall.Main.Main  - ENTER MANUFACTURER NAME
+[main] 2021-08-23 23:28:34 INFO  com.mall.Main.Main  - ENTER COST
+[main] 2021-08-23 23:28:42 INFO  com.mall.Main.Main  - Product with the above details is created successfully
+[main] 2021-08-23 23:28:43 INFO  com.mall.addProduct.Impl.ProductAddServiceImpl  - Product Id=7, Name=car, Manufacturer=maruti, Cost=60000.0
+[main] 2021-08-23 23:28:43 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
+[main] 2021-08-23 23:28:43 INFO  com.mall.Main.Main  - 
+------------------------
+[main] 2021-08-23 23:28:43 INFO  com.mall.Main.Main  - | 1. Add a Product              |
+[main] 2021-08-23 23:28:43 INFO  com.mall.Main.Main  - | 2. Search Customer            |
+[main] 2021-08-23 23:28:43 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
+[main] 2021-08-23 23:28:43 INFO  com.mall.Main.Main  - | 4. Logout!                    |
+[main] 2021-08-23 23:28:43 INFO  com.mall.Main.Main  - --------------------------
+[main] 2021-08-23 23:28:54 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:28:54 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:28:54 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:28:54 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:28:54 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:28:54 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:28:54 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:28:54 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:28:54 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:30:04 INFO  com.mall.Main.Main  - Enter customer name to get Customer details
+[main] 2021-08-23 23:30:26 INFO  com.mall.Main.Main  - Total there are 1 number of customers 
+[main] 2021-08-23 23:30:26 INFO  com.mall.Main.Main  - Customer customerId=7, customerName=sema, customerEmail=sema@gmail.com
+[main] 2021-08-23 23:30:26 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:30:26 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:30:26 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:30:26 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:30:26 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:30:26 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:30:26 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:30:26 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:30:26 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:30:32 INFO  com.mall.Main.Main  - Enter customer Id to get Customer details
+[main] 2021-08-23 23:30:39 INFO  com.mall.Main.Main  - Customer with id 7 found successfully...
+[main] 2021-08-23 23:30:39 INFO  com.mall.Main.Main  - Customer customerId=7, customerName=sema, customerEmail=sema@gmail.com
+[main] 2021-08-23 23:30:39 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:30:39 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:30:39 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:30:39 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:30:39 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:30:39 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:30:39 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:30:39 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:30:39 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:32:06 INFO  com.mall.Main.Main  - Enter customer name to get Customer details
+[main] 2021-08-23 23:32:25 INFO  com.mall.Main.Main  - Total there are 1 number of customers 
+[main] 2021-08-23 23:32:25 INFO  com.mall.Main.Main  - Customer customerId=7, customerName=sema, customerEmail=sema@gmail.com
+[main] 2021-08-23 23:32:25 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:32:25 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:32:25 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:32:25 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:32:25 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:32:25 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:32:25 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:32:25 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:32:25 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:32:30 INFO  com.mall.Main.Main  - Enter customer Email to get Customer details
+[main] 2021-08-23 23:32:41 WARN  com.mall.Main.Main  - Entered Email sema@hmail.com doesnt exist
+[main] 2021-08-23 23:32:41 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:32:41 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:32:41 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:32:41 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:32:41 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:32:41 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:32:41 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:32:41 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:32:41 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:32:47 INFO  com.mall.Main.Main  - ENTER ORDER ID
+[main] 2021-08-23 23:32:52 WARN  com.mall.Main.Main  - Entered Order Id 7 doesnt exist
+[main] 2021-08-23 23:32:52 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:32:52 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:32:52 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:32:52 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:32:52 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:32:52 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:32:52 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:32:52 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:32:52 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:33:01 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
+[main] 2021-08-23 23:33:01 INFO  com.mall.Main.Main  - 
+------------------------
+[main] 2021-08-23 23:33:01 INFO  com.mall.Main.Main  - | 1. Add a Product              |
+[main] 2021-08-23 23:33:01 INFO  com.mall.Main.Main  - | 2. Search Customer            |
+[main] 2021-08-23 23:33:01 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
+[main] 2021-08-23 23:33:01 INFO  com.mall.Main.Main  - | 4. Logout!                    |
+[main] 2021-08-23 23:33:01 INFO  com.mall.Main.Main  - --------------------------
+[main] 2021-08-23 23:33:11 INFO  com.mall.Main.Main  - 
+ What's in your mind?
+[main] 2021-08-23 23:33:11 INFO  com.mall.Main.Main  - 1)Login as Employee?
+[main] 2021-08-23 23:33:11 INFO  com.mall.Main.Main  - 2)Login as Customer?
+[main] 2021-08-23 23:33:11 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-23 23:33:11 INFO  com.mall.Main.Main  - 4)E.X.I.T
+[main] 2021-08-23 23:33:11 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-23 23:33:28 INFO  com.mall.Main.Main  - Have a good day mate! see you in a while :)
+[main] 2021-08-23 23:41:31 INFO  com.mall.Main.Main  - This is a console based application
+[main] 2021-08-23 23:41:31 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:41:31 INFO  com.mall.Main.Main  - Welcome to e-mall online shopping
+[main] 2021-08-23 23:41:31 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:41:31 INFO  com.mall.Main.Main  - 
+ What's in your mind?
+[main] 2021-08-23 23:41:31 INFO  com.mall.Main.Main  - 1)Login as Employee?
+[main] 2021-08-23 23:41:31 INFO  com.mall.Main.Main  - 2)Login as Customer?
+[main] 2021-08-23 23:41:31 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-23 23:41:31 INFO  com.mall.Main.Main  - 4)E.X.I.T
+[main] 2021-08-23 23:41:31 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-23 23:41:42 INFO  com.mall.Main.Main  - 
+ Thanks for willing to join the e-mall family
+[main] 2021-08-23 23:41:42 INFO  com.mall.Main.Main  - ENTER YOUR ID
+[main] 2021-08-23 23:42:08 INFO  com.mall.Main.Main  - ENTER YOUR NAME
+[main] 2021-08-23 23:42:13 INFO  com.mall.Main.Main  - ENTER YOUR VALID EMAIL
+[main] 2021-08-23 23:42:22 INFO  com.mall.Main.Main  - A PASSWORD IS CONSIDERED VALID IF IT HAS
+[main] 2021-08-23 23:42:22 INFO  com.mall.Main.Main  - * At least one upper case alphabet
+[main] 2021-08-23 23:42:22 INFO  com.mall.Main.Main  - * At least one lower case alphabet
+[main] 2021-08-23 23:42:22 INFO  com.mall.Main.Main  - * At least one digit
+[main] 2021-08-23 23:42:22 INFO  com.mall.Main.Main  - * At least one special character symbol whih includes !@#$%&*()
+[main] 2021-08-23 23:42:22 INFO  com.mall.Main.Main  - * No white spaces
+[main] 2021-08-23 23:42:22 INFO  com.mall.Main.Main  - 
+ ENTER YOUR PASSWORD
+[main] 2021-08-23 23:42:33 INFO  com.mall.Main.Main  - Thank you for providing the details
+[main] 2021-08-23 23:42:35 INFO  com.mall.Main.Main  - Your account is registered successfully with e-mall
+[main] 2021-08-23 23:42:35 INFO  com.mall.Main.Main  - Customer customerId=8, customerName=rassi, customerEmail=rassi@gmail.com
+[main] 2021-08-23 23:42:35 INFO  com.mall.Main.Main  - 
+ What's in your mind?
+[main] 2021-08-23 23:42:35 INFO  com.mall.Main.Main  - 1)Login as Employee?
+[main] 2021-08-23 23:42:35 INFO  com.mall.Main.Main  - 2)Login as Customer?
+[main] 2021-08-23 23:42:35 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-23 23:42:35 INFO  com.mall.Main.Main  - 4)E.X.I.T
+[main] 2021-08-23 23:42:35 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-23 23:43:04 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:43:04 INFO  com.mall.Main.Main  - ENTER YOUR MAIL-ID
+[main] 2021-08-23 23:43:13 INFO  com.mall.Main.Main  - ENTER YOUR PASSWORD
+[main] 2021-08-23 23:43:18 INFO  com.mall.Main.Main  - ===========================
+[main] 2021-08-23 23:43:18 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
+[main] 2021-08-23 23:43:18 INFO  com.mall.Main.Main  - 
+------------------------
+[main] 2021-08-23 23:43:18 INFO  com.mall.Main.Main  - | 1. Add a Product              |
+[main] 2021-08-23 23:43:18 INFO  com.mall.Main.Main  - | 2. Search Customer            |
+[main] 2021-08-23 23:43:18 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
+[main] 2021-08-23 23:43:18 INFO  com.mall.Main.Main  - | 4. Logout!                    |
+[main] 2021-08-23 23:43:18 INFO  com.mall.Main.Main  - --------------------------
+[main] 2021-08-23 23:43:24 INFO  com.mall.Main.Main  - Add the details of the Product to update the product
+[main] 2021-08-23 23:43:24 INFO  com.mall.Main.Main  - ENTER PRODUCT ID 
+[main] 2021-08-23 23:43:35 INFO  com.mall.Main.Main  - ENTER PRODUCT NAME
+[main] 2021-08-23 23:44:15 INFO  com.mall.Main.Main  - ENTER MANUFACTURER NAME
+[main] 2021-08-23 23:44:20 INFO  com.mall.Main.Main  - ENTER COST
+[main] 2021-08-23 23:44:22 INFO  com.mall.Main.Main  - Product with the above details is created successfully
+[main] 2021-08-23 23:44:23 INFO  com.mall.addProduct.Impl.ProductAddServiceImpl  - Product Id=8, Name=kbook, Manufacturer=book, Cost=40.0
+[main] 2021-08-23 23:44:23 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
+[main] 2021-08-23 23:44:23 INFO  com.mall.Main.Main  - 
+------------------------
+[main] 2021-08-23 23:44:23 INFO  com.mall.Main.Main  - | 1. Add a Product              |
+[main] 2021-08-23 23:44:23 INFO  com.mall.Main.Main  - | 2. Search Customer            |
+[main] 2021-08-23 23:44:23 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
+[main] 2021-08-23 23:44:23 INFO  com.mall.Main.Main  - | 4. Logout!                    |
+[main] 2021-08-23 23:44:23 INFO  com.mall.Main.Main  - --------------------------
+[main] 2021-08-23 23:44:35 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:44:35 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:44:35 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:44:35 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:44:35 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:44:35 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:44:35 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:44:35 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:44:35 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:44:38 INFO  com.mall.Main.Main  - Enter customer name to get Customer details
+[main] 2021-08-23 23:44:42 INFO  com.mall.Main.Main  - Total there are 1 number of customers 
+[main] 2021-08-23 23:44:42 INFO  com.mall.Main.Main  - Customer customerId=8, customerName=rassi, customerEmail=rassi@gmail.com
+[main] 2021-08-23 23:44:42 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:44:42 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:44:42 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:44:42 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:44:42 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:44:42 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:44:42 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:44:42 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:44:42 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:44:50 INFO  com.mall.Main.Main  - Enter customer Id to get Customer details
+[main] 2021-08-23 23:44:56 INFO  com.mall.Main.Main  - Customer with id 8 found successfully...
+[main] 2021-08-23 23:44:56 INFO  com.mall.Main.Main  - Customer customerId=8, customerName=rassi, customerEmail=rassi@gmail.com
+[main] 2021-08-23 23:44:56 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:44:56 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:44:56 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:44:56 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:44:56 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:44:56 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:44:56 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:44:56 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:44:56 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:45:01 INFO  com.mall.Main.Main  - Enter customer Email to get Customer details
+[main] 2021-08-23 23:45:17 INFO  com.mall.Main.Main  - Customer with id rassi@gmail.com found successfully...
+[main] 2021-08-23 23:45:17 INFO  com.mall.Main.Main  - Customer customerId=8, customerName=rassi, customerEmail=rassi@gmail.com
+[main] 2021-08-23 23:45:17 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:45:17 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:45:17 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:45:17 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:45:17 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:45:17 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:45:17 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:45:17 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:45:17 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:45:22 INFO  com.mall.Main.Main  - ENTER ORDER ID
+[main] 2021-08-23 23:45:26 WARN  com.mall.Main.Main  - Entered Order Id 8 doesnt exist
+[main] 2021-08-23 23:45:26 INFO  com.mall.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-23 23:45:26 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
+[main] 2021-08-23 23:45:26 INFO  com.mall.Main.Main  - |----------------------------------------------------|
+[main] 2021-08-23 23:45:26 INFO  com.mall.Main.Main  - | 1. By Id                                           |
+[main] 2021-08-23 23:45:26 INFO  com.mall.Main.Main  - | 2. Name                                            |
+[main] 2021-08-23 23:45:26 INFO  com.mall.Main.Main  - | 3. Email                                           |
+[main] 2021-08-23 23:45:26 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
+[main] 2021-08-23 23:45:26 INFO  com.mall.Main.Main  - | 5. Exit                                            |
+[main] 2021-08-23 23:45:26 INFO  com.mall.Main.Main  - ---------------------------------------------------   
+[main] 2021-08-23 23:45:30 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
+[main] 2021-08-23 23:45:30 INFO  com.mall.Main.Main  - 
+------------------------
+[main] 2021-08-23 23:45:30 INFO  com.mall.Main.Main  - | 1. Add a Product              |
+[main] 2021-08-23 23:45:30 INFO  com.mall.Main.Main  - | 2. Search Customer            |
+[main] 2021-08-23 23:45:30 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
+[main] 2021-08-23 23:45:30 INFO  com.mall.Main.Main  - | 4. Logout!                    |
+[main] 2021-08-23 23:45:30 INFO  com.mall.Main.Main  - --------------------------
+[main] 2021-08-23 23:45:43 WARN  com.mall.Main.Main  - No Orders Placed 
+[main] 2021-08-23 23:45:43 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:45:43 INFO  com.mall.Main.Main  - ENTER ORDER ID
+[main] 2021-08-23 23:45:50 INFO  com.mall.Main.Main  - Order is shipped Successfully!
+[main] 2021-08-23 23:45:50 INFO  com.mall.Main.Main  - Order status is updated to shipped
+[main] 2021-08-23 23:45:50 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
+[main] 2021-08-23 23:45:50 INFO  com.mall.Main.Main  - 
+------------------------
+[main] 2021-08-23 23:45:50 INFO  com.mall.Main.Main  - | 1. Add a Product              |
+[main] 2021-08-23 23:45:50 INFO  com.mall.Main.Main  - | 2. Search Customer            |
+[main] 2021-08-23 23:45:50 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
+[main] 2021-08-23 23:45:50 INFO  com.mall.Main.Main  - | 4. Logout!                    |
+[main] 2021-08-23 23:45:50 INFO  com.mall.Main.Main  - --------------------------
+[main] 2021-08-23 23:45:57 INFO  com.mall.Main.Main  - 
+ What's in your mind?
+[main] 2021-08-23 23:45:57 INFO  com.mall.Main.Main  - 1)Login as Employee?
+[main] 2021-08-23 23:45:57 INFO  com.mall.Main.Main  - 2)Login as Customer?
+[main] 2021-08-23 23:45:57 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-23 23:45:57 INFO  com.mall.Main.Main  - 4)E.X.I.T
+[main] 2021-08-23 23:45:57 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-23 23:46:04 INFO  com.mall.Main.Main  - -----------------------
+[main] 2021-08-23 23:46:04 INFO  com.mall.Main.Main  - ENTER YOUR EMAIL
+[main] 2021-08-23 23:46:20 INFO  com.mall.Main.Main  - ENTER YOUR PASSWORD
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - -----------------------
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - -----------------------
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - ----Logged In successfully----
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - 
 --Welcome back to e-mall----
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - 
 --search and shop quickly---
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - 
 ----------------------------------------------------
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - | 7. Logout                                          |
-[main] 2021-08-23 10:41:42 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - Below are the available products
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - Product Id=1, Name=mango, Manufacturer=mangodolly, Cost=100.0
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - Product Id=2, Name=bag, Manufacturer=dell, Cost=800.0
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - Product Id=3, Name=frits, Manufacturer=slice, Cost=50.0
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - | 7. Logout                                          |
+[main] 2021-08-23 23:46:27 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Below are the available products
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Product Id=1, Name=mango, Manufacturer=mangodolly, Cost=100.0
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Product Id=2, Name=bag, Manufacturer=dell, Cost=800.0
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Product Id=3, Name=frits, Manufacturer=slice, Cost=50.0
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Product Id=4, Name=vivoY11, Manufacturer=vivo, Cost=100000.0
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Product Id=5, Name=Honda50, Manufacturer=Honda, Cost=5000.0
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Product Id=6, Name=car, Manufacturer=maruti, Cost=60000.0
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Product Id=7, Name=car, Manufacturer=maruti, Cost=60000.0
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Product Id=8, Name=kbook, Manufacturer=book, Cost=40.0
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Product Id=12, Name=vivoY15, Manufacturer=vivo, Cost=20000.0
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Product Id=13, Name=vivoY17, Manufacturer=vivo, Cost=30000.0
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Product Id=14, Name=vivoY20, Manufacturer=vivo, Cost=40000.0
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Product Id=15, Name=vivoY21, Manufacturer=vivo, Cost=40000.0
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - Product Id=16, Name=vivoY22, Manufacturer=vivo, Cost=450000.0
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - 
 ----------------------------------------------------
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - | 7. Logout                                          |
-[main] 2021-08-23 10:42:26 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:42:58 INFO  com.mall.Main.Main  - Product Id=1, Name=mango, Manufacturer=mangodolly, Cost=100.0
-[main] 2021-08-23 10:42:58 INFO  com.mall.Main.Main  - Product Id=2, Name=bag, Manufacturer=dell, Cost=800.0
-[main] 2021-08-23 10:42:58 INFO  com.mall.Main.Main  - Product Id=3, Name=frits, Manufacturer=slice, Cost=50.0
-[main] 2021-08-23 10:42:58 INFO  com.mall.Main.Main  - -----------------------
-[main] 2021-08-23 10:42:58 INFO  com.mall.Main.Main  - Enter the Product Id to add in the Cart
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - Product with Id 3 added to cart successfully
-[main] 2021-08-23 10:43:55 INFO  com.mall.service.impl.AddProductToCartServiceImpl  - Product added successfully
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - | 7. Logout                                          |
+[main] 2021-08-23 23:46:35 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Product Id=1, Name=mango, Manufacturer=mangodolly, Cost=100.0
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Product Id=2, Name=bag, Manufacturer=dell, Cost=800.0
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Product Id=3, Name=frits, Manufacturer=slice, Cost=50.0
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Product Id=4, Name=vivoY11, Manufacturer=vivo, Cost=100000.0
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Product Id=5, Name=Honda50, Manufacturer=Honda, Cost=5000.0
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Product Id=6, Name=car, Manufacturer=maruti, Cost=60000.0
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Product Id=7, Name=car, Manufacturer=maruti, Cost=60000.0
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Product Id=8, Name=kbook, Manufacturer=book, Cost=40.0
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Product Id=12, Name=vivoY15, Manufacturer=vivo, Cost=20000.0
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Product Id=13, Name=vivoY17, Manufacturer=vivo, Cost=30000.0
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Product Id=14, Name=vivoY20, Manufacturer=vivo, Cost=40000.0
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Product Id=15, Name=vivoY21, Manufacturer=vivo, Cost=40000.0
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Product Id=16, Name=vivoY22, Manufacturer=vivo, Cost=450000.0
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - -----------------------
+[main] 2021-08-23 23:46:56 INFO  com.mall.Main.Main  - Enter the Product Id to add in the Cart
+[main] 2021-08-23 23:47:05 INFO  com.mall.Main.Main  - Product with Id 3 added to cart successfully
+[main] 2021-08-23 23:47:06 INFO  com.mall.service.impl.AddProductToCartServiceImpl  - Product added successfully
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - 
 ----------------------------------------------------
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - | 7. Logout                                          |
-[main] 2021-08-23 10:43:55 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - List of Products placed in your Cart 
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - Cart productId=3, customerId=3, productname=frits, manufacturer=slice, cost=50.0
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - 
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - Total Cost is 50.0
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - | 7. Logout                                          |
+[main] 2021-08-23 23:47:06 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - Cart productId=3, customerId=8, productname=frits, manufacturer=slice, cost=50.0
+[main] 2021-08-23 23:47:10 WARN  com.mall.Main.Main  - Internal error occured contact sysadmin
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - 
 ----------------------------------------------------
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - | 7. Logout                                          |
-[main] 2021-08-23 10:48:05 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - Cart productId=3, customerId=3, productname=frits, manufacturer=slice, cost=50.0
-[main] 2021-08-23 10:48:48 WARN  com.mall.Main.Main  - Internal error occured contact sysadmin
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - 
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - | 7. Logout                                          |
+[main] 2021-08-23 23:47:10 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:15 INFO  com.mall.Main.Main  - Enter the Order Id to mark it as Received
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - Changed the order status to received
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - Updated your Order status successfully
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - 
 ----------------------------------------------------
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - | 7. Logout                                          |
-[main] 2021-08-23 10:48:48 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:05 INFO  com.mall.Main.Main  - Enter the Order Id to mark it as Received
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - Changed the order status to received
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - Updated your Order status successfully
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - | 7. Logout                                          |
-[main] 2021-08-23 10:49:36 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - Orders you have placed
-[main] 2021-08-23 10:49:53 WARN  com.mall.Main.Main  - No Orders Placed 
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - | 7. Logout                                          |
-[main] 2021-08-23 10:49:53 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 10:50:43 INFO  com.mall.Main.Main  - ThankYou for using e-mall, see you again :) 
-[main] 2021-08-23 16:33:58 INFO  com.mall.Main.Main  - This is a console based application
-[main] 2021-08-23 16:33:58 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 16:33:58 INFO  com.mall.Main.Main  - Welcome to e-mall online shopping
-[main] 2021-08-23 16:33:58 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 16:33:58 INFO  com.mall.Main.Main  - 
- What's in your mind?
-[main] 2021-08-23 16:33:58 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 16:33:58 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 16:33:58 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 16:33:58 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 16:33:58 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 16:50:02 INFO  com.mall.Main.Main  - This is a console based application
-[main] 2021-08-23 16:50:02 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 16:50:02 INFO  com.mall.Main.Main  - Welcome to e-mall online shopping
-[main] 2021-08-23 16:50:02 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 16:50:02 INFO  com.mall.Main.Main  - 
- What's in your mind?
-[main] 2021-08-23 16:50:02 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 16:50:02 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 16:50:02 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 16:50:02 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 16:50:02 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 16:50:26 INFO  com.mall.Main.Main  - 
- Thanks for willing to join the e-mall family
-[main] 2021-08-23 16:50:26 INFO  com.mall.Main.Main  - ENTER YOUR ID
-[main] 2021-08-23 16:50:43 INFO  com.mall.Main.Main  - ENTER YOUR NAME
-[main] 2021-08-23 16:50:48 INFO  com.mall.Main.Main  - ENTER YOUR VALID EMAIL
-[main] 2021-08-23 16:51:00 INFO  com.mall.Main.Main  - A PASSWORD IS CONSIDERED VALID IF IT HAS
-[main] 2021-08-23 16:51:00 INFO  com.mall.Main.Main  - * At least one upper case alphabet
-[main] 2021-08-23 16:51:00 INFO  com.mall.Main.Main  - * At least one lower case alphabet
-[main] 2021-08-23 16:51:00 INFO  com.mall.Main.Main  - * At least one digit
-[main] 2021-08-23 16:51:00 INFO  com.mall.Main.Main  - * At least one special character symbol whih includes !@#$%&*()
-[main] 2021-08-23 16:51:00 INFO  com.mall.Main.Main  - * No white spaces
-[main] 2021-08-23 16:51:00 INFO  com.mall.Main.Main  - 
- ENTER YOUR PASSWORD
-[main] 2021-08-23 16:51:41 INFO  com.mall.Main.Main  - Enter password according to given constraints
-[main] 2021-08-23 16:51:41 INFO  com.mall.Main.Main  - 
- What's in your mind?
-[main] 2021-08-23 16:51:41 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 16:51:41 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 16:51:41 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 16:51:41 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 16:51:41 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 16:51:54 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 16:51:54 INFO  com.mall.Main.Main  - ENTER YOUR MAIL-ID
-[main] 2021-08-23 16:52:14 INFO  com.mall.Main.Main  - ENTER YOUR PASSWORD
-[main] 2021-08-23 16:52:17 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 16:52:17 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
-[main] 2021-08-23 16:52:17 INFO  com.mall.Main.Main  - 
-------------------------
-[main] 2021-08-23 16:52:17 INFO  com.mall.Main.Main  - | 1. Add a Product              |
-[main] 2021-08-23 16:52:17 INFO  com.mall.Main.Main  - | 2. Search Customer            |
-[main] 2021-08-23 16:52:17 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
-[main] 2021-08-23 16:52:17 INFO  com.mall.Main.Main  - | 4. Logout!                    |
-[main] 2021-08-23 16:52:17 INFO  com.mall.Main.Main  - --------------------------
-[main] 2021-08-23 16:52:28 INFO  com.mall.Main.Main  - Add the details of the Product to update the product
-[main] 2021-08-23 16:52:28 INFO  com.mall.Main.Main  - ENTER PRODUCT ID 
-[main] 2021-08-23 16:52:58 INFO  com.mall.Main.Main  - ENTER PRODUCT NAME
-[main] 2021-08-23 16:53:22 INFO  com.mall.Main.Main  - ENTER MANUFACTURER NAME
-[main] 2021-08-23 16:53:29 INFO  com.mall.Main.Main  - ENTER COST
-[main] 2021-08-23 16:54:18 INFO  com.mall.Main.Main  - This is a console based application
-[main] 2021-08-23 16:54:18 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 16:54:18 INFO  com.mall.Main.Main  - Welcome to e-mall online shopping
-[main] 2021-08-23 16:54:18 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 16:54:18 INFO  com.mall.Main.Main  - 
- What's in your mind?
-[main] 2021-08-23 16:54:18 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 16:54:18 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 16:54:18 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 16:54:18 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 16:54:18 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 16:54:30 INFO  com.mall.Main.Main  - 
- Thanks for willing to join the e-mall family
-[main] 2021-08-23 16:54:30 INFO  com.mall.Main.Main  - ENTER YOUR ID
-[main] 2021-08-23 16:54:37 INFO  com.mall.Main.Main  - ENTER YOUR NAME
-[main] 2021-08-23 16:54:41 INFO  com.mall.Main.Main  - ENTER YOUR VALID EMAIL
-[main] 2021-08-23 16:54:49 INFO  com.mall.Main.Main  - A PASSWORD IS CONSIDERED VALID IF IT HAS
-[main] 2021-08-23 16:54:49 INFO  com.mall.Main.Main  - * At least one upper case alphabet
-[main] 2021-08-23 16:54:49 INFO  com.mall.Main.Main  - * At least one lower case alphabet
-[main] 2021-08-23 16:54:49 INFO  com.mall.Main.Main  - * At least one digit
-[main] 2021-08-23 16:54:49 INFO  com.mall.Main.Main  - * At least one special character symbol whih includes !@#$%&*()
-[main] 2021-08-23 16:54:49 INFO  com.mall.Main.Main  - * No white spaces
-[main] 2021-08-23 16:54:49 INFO  com.mall.Main.Main  - 
- ENTER YOUR PASSWORD
-[main] 2021-08-23 16:55:02 INFO  com.mall.Main.Main  - Enter password according to given constraints
-[main] 2021-08-23 16:55:02 INFO  com.mall.Main.Main  - 
- What's in your mind?
-[main] 2021-08-23 16:55:02 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 16:55:02 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 16:55:02 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 16:55:02 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 16:55:02 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 16:55:07 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 16:55:07 INFO  com.mall.Main.Main  - ENTER YOUR MAIL-ID
-[main] 2021-08-23 16:55:21 INFO  com.mall.Main.Main  - ENTER YOUR PASSWORD
-[main] 2021-08-23 16:55:24 INFO  com.mall.Main.Main  - ===========================
-[main] 2021-08-23 16:55:24 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
-[main] 2021-08-23 16:55:24 INFO  com.mall.Main.Main  - 
-------------------------
-[main] 2021-08-23 16:55:24 INFO  com.mall.Main.Main  - | 1. Add a Product              |
-[main] 2021-08-23 16:55:24 INFO  com.mall.Main.Main  - | 2. Search Customer            |
-[main] 2021-08-23 16:55:24 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
-[main] 2021-08-23 16:55:24 INFO  com.mall.Main.Main  - | 4. Logout!                    |
-[main] 2021-08-23 16:55:24 INFO  com.mall.Main.Main  - --------------------------
-[main] 2021-08-23 16:55:28 INFO  com.mall.Main.Main  - Add the details of the Product to update the product
-[main] 2021-08-23 16:55:28 INFO  com.mall.Main.Main  - ENTER PRODUCT ID 
-[main] 2021-08-23 16:55:31 INFO  com.mall.Main.Main  - ENTER PRODUCT NAME
-[main] 2021-08-23 16:55:39 INFO  com.mall.Main.Main  - ENTER MANUFACTURER NAME
-[main] 2021-08-23 16:55:43 INFO  com.mall.Main.Main  - ENTER COST
-[main] 2021-08-23 16:55:50 INFO  com.mall.Main.Main  - Product with the above details is created successfully
-[main] 2021-08-23 16:56:00 INFO  com.mall.addProduct.Impl.ProductAddServiceImpl  - Product Id=4, Name=vivoY11, Manufacturer=vivo, Cost=100000.0
-[main] 2021-08-23 16:56:00 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
-[main] 2021-08-23 16:56:00 INFO  com.mall.Main.Main  - 
-------------------------
-[main] 2021-08-23 16:56:00 INFO  com.mall.Main.Main  - | 1. Add a Product              |
-[main] 2021-08-23 16:56:00 INFO  com.mall.Main.Main  - | 2. Search Customer            |
-[main] 2021-08-23 16:56:00 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
-[main] 2021-08-23 16:56:00 INFO  com.mall.Main.Main  - | 4. Logout!                    |
-[main] 2021-08-23 16:56:00 INFO  com.mall.Main.Main  - --------------------------
-[main] 2021-08-23 16:56:11 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 16:56:11 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 16:56:11 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 16:56:11 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 16:56:11 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 16:56:11 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 16:56:11 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 16:56:11 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 16:56:11 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 16:56:21 INFO  com.mall.Main.Main  - Enter customer Id to get Customer details
-[main] 2021-08-23 16:56:24 WARN  com.mall.Main.Main  - Entered customer id 4 doesnt exist
-[main] 2021-08-23 16:56:24 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 16:56:24 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 16:56:24 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 16:56:24 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 16:56:24 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 16:56:24 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 16:56:24 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 16:56:24 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 16:56:24 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 16:56:38 INFO  com.mall.Main.Main  - Enter customer Id to get Customer details
-[main] 2021-08-23 16:57:02 INFO  com.mall.Main.Main  - Customer with id 3 found successfully...
-[main] 2021-08-23 16:57:02 INFO  com.mall.Main.Main  - Customer customerId=3, customerName=Amol, customerEmail=Amol@gmail.com
-[main] 2021-08-23 16:57:02 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 16:57:02 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 16:57:02 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 16:57:02 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 16:57:02 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 16:57:02 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 16:57:02 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 16:57:02 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 16:57:02 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 16:58:04 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
-[main] 2021-08-23 16:58:04 INFO  com.mall.Main.Main  - 
-------------------------
-[main] 2021-08-23 16:58:04 INFO  com.mall.Main.Main  - | 1. Add a Product              |
-[main] 2021-08-23 16:58:04 INFO  com.mall.Main.Main  - | 2. Search Customer            |
-[main] 2021-08-23 16:58:04 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
-[main] 2021-08-23 16:58:04 INFO  com.mall.Main.Main  - | 4. Logout!                    |
-[main] 2021-08-23 16:58:04 INFO  com.mall.Main.Main  - --------------------------
-[main] 2021-08-23 16:58:09 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 16:58:09 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 16:58:09 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 16:58:09 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 16:58:09 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 16:58:09 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 16:58:09 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 16:58:09 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 16:58:09 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 16:58:19 INFO  com.mall.Main.Main  - Enter customer name to get Customer details
-[main] 2021-08-23 16:58:34 WARN  com.mall.Main.Main  - No Customers for the name Ram
-[main] 2021-08-23 16:58:34 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 16:58:34 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 16:58:34 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 16:58:34 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 16:58:34 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 16:58:34 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 16:58:34 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 16:58:34 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 16:58:34 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 16:58:42 INFO  com.mall.Main.Main  - Enter customer name to get Customer details
-[main] 2021-08-23 16:58:54 INFO  com.mall.Main.Main  - Total there are 1 number of customers 
-[main] 2021-08-23 16:58:54 INFO  com.mall.Main.Main  - Customer customerId=1, customerName=gauri, customerEmail=gauri@gmail.com
-[main] 2021-08-23 16:58:54 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 16:58:54 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 16:58:54 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 16:58:54 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 16:58:54 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 16:58:54 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 16:58:54 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 16:58:54 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 16:58:54 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 16:58:59 INFO  com.mall.Main.Main  - Enter customer Id to get Customer details
-[main] 2021-08-23 16:59:04 INFO  com.mall.Main.Main  - Customer with id 1 found successfully...
-[main] 2021-08-23 16:59:04 INFO  com.mall.Main.Main  - Customer customerId=1, customerName=gauri, customerEmail=gauri@gmail.com
-[main] 2021-08-23 16:59:04 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 16:59:04 INFO  com.mall.Main.Main  - |How do you want to search for the customer Info     |
-[main] 2021-08-23 16:59:04 INFO  com.mall.Main.Main  - |----------------------------------------------------|
-[main] 2021-08-23 16:59:04 INFO  com.mall.Main.Main  - | 1. By Id                                           |
-[main] 2021-08-23 16:59:04 INFO  com.mall.Main.Main  - | 2. Name                                            |
-[main] 2021-08-23 16:59:04 INFO  com.mall.Main.Main  - | 3. Email                                           |
-[main] 2021-08-23 16:59:04 INFO  com.mall.Main.Main  - | 4. OrderId                                         |
-[main] 2021-08-23 16:59:04 INFO  com.mall.Main.Main  - | 5. Exit                                            |
-[main] 2021-08-23 16:59:04 INFO  com.mall.Main.Main  - ---------------------------------------------------   
-[main] 2021-08-23 16:59:10 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
-[main] 2021-08-23 16:59:10 INFO  com.mall.Main.Main  - 
-------------------------
-[main] 2021-08-23 16:59:10 INFO  com.mall.Main.Main  - | 1. Add a Product              |
-[main] 2021-08-23 16:59:10 INFO  com.mall.Main.Main  - | 2. Search Customer            |
-[main] 2021-08-23 16:59:10 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
-[main] 2021-08-23 16:59:10 INFO  com.mall.Main.Main  - | 4. Logout!                    |
-[main] 2021-08-23 16:59:10 INFO  com.mall.Main.Main  - --------------------------
-[main] 2021-08-23 16:59:23 WARN  com.mall.Main.Main  - No Orders Placed 
-[main] 2021-08-23 16:59:23 INFO  com.mall.Main.Main  - 
-[main] 2021-08-23 16:59:23 INFO  com.mall.Main.Main  - ENTER ORDER ID
-[main] 2021-08-23 16:59:38 INFO  com.mall.Main.Main  - Order is shipped Successfully!
-[main] 2021-08-23 16:59:38 INFO  com.mall.Main.Main  - Order status is updated to shipped
-[main] 2021-08-23 16:59:38 INFO  com.mall.Main.Main  - Hey Employee! what do you want to do today?
-[main] 2021-08-23 16:59:38 INFO  com.mall.Main.Main  - 
-------------------------
-[main] 2021-08-23 16:59:38 INFO  com.mall.Main.Main  - | 1. Add a Product              |
-[main] 2021-08-23 16:59:38 INFO  com.mall.Main.Main  - | 2. Search Customer            |
-[main] 2021-08-23 16:59:38 INFO  com.mall.Main.Main  - | 3. Mark the status of order   |
-[main] 2021-08-23 16:59:38 INFO  com.mall.Main.Main  - | 4. Logout!                    |
-[main] 2021-08-23 16:59:38 INFO  com.mall.Main.Main  - --------------------------
-[main] 2021-08-23 16:59:55 INFO  com.mall.Main.Main  - 
- What's in your mind?
-[main] 2021-08-23 16:59:55 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 16:59:55 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 16:59:55 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 16:59:55 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 16:59:55 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 17:01:17 INFO  com.mall.Main.Main  - 
- Thanks for willing to join the e-mall family
-[main] 2021-08-23 17:01:17 INFO  com.mall.Main.Main  - ENTER YOUR ID
-[main] 2021-08-23 17:01:25 INFO  com.mall.Main.Main  - ENTER YOUR NAME
-[main] 2021-08-23 17:01:42 INFO  com.mall.Main.Main  - ENTER YOUR VALID EMAIL
-[main] 2021-08-23 17:01:53 INFO  com.mall.Main.Main  - A PASSWORD IS CONSIDERED VALID IF IT HAS
-[main] 2021-08-23 17:01:53 INFO  com.mall.Main.Main  - * At least one upper case alphabet
-[main] 2021-08-23 17:01:53 INFO  com.mall.Main.Main  - * At least one lower case alphabet
-[main] 2021-08-23 17:01:53 INFO  com.mall.Main.Main  - * At least one digit
-[main] 2021-08-23 17:01:53 INFO  com.mall.Main.Main  - * At least one special character symbol whih includes !@#$%&*()
-[main] 2021-08-23 17:01:53 INFO  com.mall.Main.Main  - * No white spaces
-[main] 2021-08-23 17:01:53 INFO  com.mall.Main.Main  - 
- ENTER YOUR PASSWORD
-[main] 2021-08-23 17:02:04 INFO  com.mall.Main.Main  - Thank you for providing the details
-[main] 2021-08-23 17:02:04 INFO  com.mall.Main.Main  - Your account is registered successfully with e-mall
-[main] 2021-08-23 17:02:04 INFO  com.mall.Main.Main  - Customer customerId=4, customerName=pari, customerEmail=pari@gmail.com
-[main] 2021-08-23 17:02:04 INFO  com.mall.Main.Main  - 
- What's in your mind?
-[main] 2021-08-23 17:02:04 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 17:02:04 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 17:02:04 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 17:02:04 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 17:02:04 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 17:02:18 INFO  com.mall.Main.Main  - -----------------------
-[main] 2021-08-23 17:02:18 INFO  com.mall.Main.Main  - ENTER YOUR EMAIL
-[main] 2021-08-23 17:02:35 INFO  com.mall.Main.Main  - ENTER YOUR PASSWORD
-[main] 2021-08-23 17:03:50 INFO  com.mall.Main.Main  - -----------------------
-[main] 2021-08-23 17:03:50 INFO  com.mall.Main.Main  - 
- What's in your mind?
-[main] 2021-08-23 17:03:50 INFO  com.mall.Main.Main  - 1)Login as Employee?
-[main] 2021-08-23 17:03:50 INFO  com.mall.Main.Main  - 2)Login as Customer?
-[main] 2021-08-23 17:03:50 INFO  com.mall.Main.Main  - 3)New to e-mall? Register Here as a customer!
-[main] 2021-08-23 17:03:50 INFO  com.mall.Main.Main  - 4)E.X.I.T
-[main] 2021-08-23 17:03:50 INFO  com.mall.Main.Main  - Enter Your Choice here 1-4
-[main] 2021-08-23 17:04:04 INFO  com.mall.Main.Main  - -----------------------
-[main] 2021-08-23 17:04:04 INFO  com.mall.Main.Main  - ENTER YOUR EMAIL
-[main] 2021-08-23 17:04:44 INFO  com.mall.Main.Main  - ENTER YOUR PASSWORD
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - -----------------------
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - -----------------------
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - ----Logged In successfully----
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - 
---Welcome back to e-mall----
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - 
---search and shop quickly---
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - | 7. Logout                                          |
-[main] 2021-08-23 17:04:51 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - Below are the available products
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - Product Id=1, Name=mango, Manufacturer=mangodolly, Cost=100.0
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - Product Id=2, Name=bag, Manufacturer=dell, Cost=800.0
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - Product Id=3, Name=frits, Manufacturer=slice, Cost=50.0
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - Product Id=4, Name=vivoY11, Manufacturer=vivo, Cost=100000.0
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - | 7. Logout                                          |
-[main] 2021-08-23 17:04:58 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:09 INFO  com.mall.Main.Main  - Product Id=1, Name=mango, Manufacturer=mangodolly, Cost=100.0
-[main] 2021-08-23 17:05:09 INFO  com.mall.Main.Main  - Product Id=2, Name=bag, Manufacturer=dell, Cost=800.0
-[main] 2021-08-23 17:05:09 INFO  com.mall.Main.Main  - Product Id=3, Name=frits, Manufacturer=slice, Cost=50.0
-[main] 2021-08-23 17:05:09 INFO  com.mall.Main.Main  - Product Id=4, Name=vivoY11, Manufacturer=vivo, Cost=100000.0
-[main] 2021-08-23 17:05:09 INFO  com.mall.Main.Main  - -----------------------
-[main] 2021-08-23 17:05:09 INFO  com.mall.Main.Main  - Enter the Product Id to add in the Cart
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - Product with Id 4 added to cart successfully
-[main] 2021-08-23 17:05:17 INFO  com.mall.service.impl.AddProductToCartServiceImpl  - Product added successfully
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - | 7. Logout                                          |
-[main] 2021-08-23 17:05:17 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - List of Products placed in your Cart 
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - Cart productId=4, customerId=4, productname=vivoY11, manufacturer=vivo, cost=100000.0
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - 
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - Total Cost is 100000.0
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - | 7. Logout                                          |
-[main] 2021-08-23 17:05:25 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - Cart productId=4, customerId=4, productname=vivoY11, manufacturer=vivo, cost=100000.0
-[main] 2021-08-23 17:05:32 WARN  com.mall.Main.Main  - Internal error occured contact sysadmin
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - | 7. Logout                                          |
-[main] 2021-08-23 17:05:32 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:06:35 INFO  com.mall.Main.Main  - Enter the Order Id to mark it as Received
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - Changed the order status to received
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - Updated your Order status successfully
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - 
-----------------------------------------------------
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - | 7. Logout                                          |
-[main] 2021-08-23 17:06:39 INFO  com.mall.Main.Main  - ------------------------------------------------------
-[main] 2021-08-23 17:06:45 INFO  com.mall.Main.Main  - ThankYou for using e-mall, see you again :) 
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - | 1. View all the available products                 |
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - | 2. Add a product to the Cart                       |
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - | 3. View the Cart with product list and total       |
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - | 4. PLace orders on the items in the Cart           |
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - | 5. Mark the order as received                      |
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - | 6. View all my orders and it's status              |
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - ------------------------------------------------------
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - | 7. Logout                                          |
+[main] 2021-08-23 23:47:24 INFO  com.mall.Main.Main  - ------------------------------------------------------
